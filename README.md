@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikolas Vardeberg Rekashev</h1>
+<h1>Hi 👋, I'm Nikolas Vardeberg Rekashev</h1>
+
+🚀 Currently building a new site for DigitalRussekort.no, focusing on modernizing the design, improving performance, and delivering a seamless user experience for 2024's russ generation.
+
+🌱 I’m currently learning web apis dotnet
+
+💬 Ask me about Sanity, React, Next.js, Typescript
 
 ## Languages and Tools
 
