@@ -6,8 +6,6 @@
 
 💬 Ask me about Sanity, React, Next.js, Typescript
 
-💰 Unofficial owner of felleskapt AS org: 927492318
-
 ## Languages and Tools
 
 <div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 10px; align-items: center; justify-items: center;">
