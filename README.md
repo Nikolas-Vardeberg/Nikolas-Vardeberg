@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolas Vardeberg</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-- 🔭 I’m currently working on **New Website for Alexsander Arnseth & Acuti Bergen**
+- 🔭 I’m currently working on **New Website for Alexsander Arnseth & Thermal Tec**
 
 - 🌱 I’m currently learning **Dotnet**
 
