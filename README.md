@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikolas Vardeberg</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h3 align="left">A passionate frontend developer from Norway</h3>
 
 - 🔭 I’m currently working on **New Website for Alexsander Arnseth & Thermal Tec**
 
-- 🌱 I’m currently learning **Dotnet**
+- 🌱 I’m currently learning **Dotnet** & **Azure**
 
 - 💬 Ask me about **React, Next.js, Sanity**
 
-- 📫 How to reach me **nikolas.vardeberg1@gmail.com**
+<h3 align="left">Contact me:</h3>
+
+- **Personal:** [nikolas.vardeberg1@gmail.com](mailto:nikolas.vardeberg1@gmail.com)  
+- **Business Inquiries:** [nikolas@vertioconsulting.no](mailto:nikolas@vertioconsulting.no)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
