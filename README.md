@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikolas Vardeberg</h1>
 <h3 align="left">A passionate frontend developer from Norway</h3>
 
-- 🔭 I’m currently working on **Web Solutions for NEXTGEN STUDENTS**
-
-- 🌱 I’m currently learning **Dotnet** & **Azure**
-
-- 💬 Ask me about **React, Next.js, Sanity**
+- 🔭 I’m currently working on **N3 AI support agents**
 
 <h3 align="left">Contact me:</h3>
 
 - **Personal:** [nikolas.vardeberg1@gmail.com](mailto:nikolas.vardeberg1@gmail.com)  
-- **Business Inquiries:** [nikolas@vertioconsulting.no](mailto:nikolas@vertioconsulting.no)  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
